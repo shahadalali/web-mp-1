@@ -1,0 +1,280 @@
+.t1{
+    background-color:skyblue;
+    height: 150px;
+    display: flex ;
+    justify-content:flex-start;
+    margin:-10px;
+    align-items: flex-start;
+    font-family: 'Roboto Slab', serif;
+  
+
+    
+}
+.links{
+    height: 100px;
+    width: 1100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Slab', serif;
+
+
+    
+   
+
+  
+}
+
+
+a{
+    width: 100px;
+    text-decoration: none;
+margin-left:-600px;
+display: inline block; 
+    color: #000;
+ 
+ 
+     
+}
+.list1{
+    background-color:skyblue;
+    height:-600px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:center;
+  margin:-20px;
+position: fixed;
+margin-right: -120px;
+bottom: -10px;
+top: 50px;
+font-family: 'Roboto Slab', serif;
+
+}
+img{
+
+    border-radius: 20px;
+height: 90px;
+width: 100px;
+margin: 0px;
+padding-left: 0px;
+align-items: flex-start;
+margin-left: 0px;
+
+}
+   
+
+.menu{ 
+    color: rgb(0, 0, 0);
+    text-align: center;
+margin-top: 0px;
+margin-inline-start:20px;
+font-family: 'Roboto Slab', serif;
+
+
+}
+
+
+ li {
+margin:40px; 
+list-style: none;
+display: inline-block;
+height:0px;
+
+
+
+
+
+}
+li:hover{
+    transform: scale(0.9);
+    transition: all .5s ease-in-out;
+
+
+
+}
+.card{
+width: 150px;
+height:210px;
+border-radius: 10px;
+margin-left: 60px;
+margin-right:60px;
+overflow: hidden;
+display:block;
+margin-top: 80px;
+justify-content: center;
+              
+
+}
+.card:hover{
+    box-shadow: 55px;
+ 
+}
+
+ .homee1{
+background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/prisoners.jpg");
+
+
+ }
+     .homee1:hover{
+        transform: scale(0.9);
+        transition: all .5s ease;
+     }
+ 
+.homee2{
+background-image:url("/Users/shahadalali/Documents/GitHub/web-mp-1/a quiet place.jpg");
+}.homee2:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+
+.hom3{
+background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/the invisible man.jpg");
+
+}
+.hom3:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+  
+    
+}
+.homee4{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/mama.jpg");
+}
+.homee4:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.homee5{
+background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/scarface.jpg");
+
+}
+.homee5:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.hom6{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/us.jpg");
+}
+.hom6:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.homee7{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/it.jpg");
+}
+.homee7:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.homee8{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/the mask.jpg");
+}
+.homee8:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.hom9{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/into the woods.jpg");
+}
+.hom9:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+h1{
+color: rgb(119, 0, 0);
+    font-size:x-large;
+    text-align:center;
+    font-family: 'Roboto Slab', serif;
+
+    
+}
+.act1{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/lucy.jpg");
+}
+.act1:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+
+.act2{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/ocean's 11.jpg");
+}
+.act2:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.actt3{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/the tourist.jpg");
+}
+.actt3:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.dr1{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/titanic.jpg");
+}
+.dr1:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.dr2{
+
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/happyness.jpg");
+}
+.dr2:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.dr3{
+    
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/wonder.jpg");
+}
+.dr3:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.hr1{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/texas chainsaw.jpg");
+}
+.hr1:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.hr2{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/the conjuring.jpg");
+}
+.hr2:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.hr3{
+    background-image: url("/Users/shahadalali/Documents/GitHub/web-mp-1/hush.jpg");
+}
+.hr3:hover{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+
+.midd{
+background-color: rgb(255, 255, 255);
+height:1350px;
+width:3000px;
+margin-top: 150px;
+margin-left: -900px;
+margin-right: 0px;
+display:flex;
+flex-direction: column;
+justify-content: center;
+margin-bottom: 900px;
+
+}
+.fav{
+display: block;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+}
